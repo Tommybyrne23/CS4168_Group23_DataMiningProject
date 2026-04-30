@@ -1,0 +1,18 @@
+# CS4168 Project Requirements
+# Pin these versions to ensure all team members use identical environments
+
+# Core Data Science
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.13.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+
+# Optional but recommended for notebooks
+jupyter>=1.0.0
+ipython>=8.0.0
