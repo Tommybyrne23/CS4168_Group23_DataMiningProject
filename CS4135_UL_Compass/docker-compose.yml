@@ -1,0 +1,56 @@
+version: "3.8"
+
+services:
+  # --- Infrastructure ---
+  postgres:
+    image: postgres:15-alpine
+    container_name: ulcompass-auth-db
+    environment:
+      POSTGRES_DB: auth_db
+      POSTGRES_USER: authuser
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-authpass}
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    # Security: No ports exposed to host in production.
+    # Uncomment below for local debugging only:
+    # ports:
+    #   - "5432:5432"
+
+  rabbitmq:
+    image: rabbitmq:3-management-alpine
+    container_name: ulcompass-rabbitmq
+    # Security: No ports exposed to host in production.
+    # Uncomment below for local debugging only:
+    # ports:
+    #   - "5672:5672"
+    #   - "15672:15672"
+
+  # --- Backend API ---
+  server:
+    build:
+      context: .
+      dockerfile: Dockerfile.server
+    container_name: ulcompass-server
+    restart: always
+    depends_on:
+      - postgres
+      - rabbitmq
+    environment:
+      - NODE_ENV=production
+      - PORT=3001
+    # Security: No public ports — only accessible via NGINX reverse proxy.
+
+  # --- Frontend (NGINX Reverse Proxy + React SPA) ---
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile.frontend
+    container_name: ulcompass-frontend
+    restart: always
+    depends_on:
+      - server
+    ports:
+      - "80:80"
+
+volumes:
+  postgres-data:

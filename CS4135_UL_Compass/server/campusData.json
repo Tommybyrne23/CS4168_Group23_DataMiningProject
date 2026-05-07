@@ -1,0 +1,2310 @@
+{
+  "buildings": [
+    {
+      "id": "CS",
+      "name": "CSIS",
+      "fullName": "Computer Science and Information Systems Building",
+      "type": "Academic",
+      "coordinates": {
+        "lat": 52.673891718601624,
+        "lng": -8.575582023281457
+      },
+      "description": "Home to the Department of Computer Science and Information Systems"
+    },
+    {
+      "id": "LC",
+      "name": "Languages Building",
+      "fullName": "The Language Centre",
+      "type": "Academic",
+      "coordinates": {
+        "lat": 52.67560322913706,
+        "lng": -8.57326463453086
+      },
+      "description": "They offer a variety of courses that aim to make sure that each student reaches their language goal while feeling welcome, safe and at home with us."
+    },
+    {
+      "id": "GEMS",
+      "name": "Medicine Building",
+      "fullName": "School of Medicine",
+      "type": "Academic",
+      "coordinates": {
+        "lat": 52.6783327833924,
+        "lng": -8.568228417619421
+      },
+      "description": "Home to the School of Medicine"
+    },
+    {
+      "id": "HSG",
+      "name": "Health Sciences",
+      "fullName": "Health Sciences Building",
+      "type": "Academic",
+      "coordinates": {
+        "lat": 52.67777987384361,
+        "lng": -8.56911891096926
+      },
+      "description": "Home to the School of Health Sciences"
+    },
+    {
+      "id": "P",
+      "name": "PESS Building",
+      "fullName": "Physical Education and Sports Science Building",
+      "type": "Academic",
+      "coordinates": {
+        "lat": 52.67460217754794,
+        "lng": -8.567630443573144
+      },
+      "description": "Home of physical education and sports science facilities"
+    },
+    {
+      "id": "SR",
+      "name": "Science And Education",
+      "fullName": "Science and Education Building",
+      "type": "Academic",
+      "coordinates": {
+        "lat": 52.67374997065875,
+        "lng": -8.567533884072239
+      },
+      "description": "Home to physics and technical graphics departments"
+    },
+    {
+      "id": "AD",
+      "name": "Analong Devices",
+      "fullName": "Analog Devices Building (The Bernal Project)",
+      "type": "Academic",
+      "coordinates": {
+        "lat": 52.673083155971,
+        "lng": -8.569151256073292
+      },
+      "description": "A state-of-the-art facility for research and innovation in technology, housing the Bernal Project and various research labs"
+    },
+    {
+      "id": "LG",
+      "name": "Lonsdale",
+      "fullName": "Faculty of Science & Engineering Offices (Kathleen Lonsdale Building)",
+      "type": "Academic",
+      "coordinates": {
+        "lat": 52.67373045427626,
+        "lng": -8.568901810652045
+      },
+      "description": "Home to a wide range of undergraduate and postgraduate academic degree programmes in Computing, Design, Engineering, Mathematics and Science"
+    },
+    {
+      "id": "SL",
+      "name": "Student Life",
+      "fullName": "New Student Centre",
+      "type": "Student Services",
+      "coordinates": {
+        "lat": 52.67304249621406,
+        "lng": -8.572039995076906
+      },
+      "description": "Student center with cafes and services"
+    },
+    {
+      "id": "TB",
+      "name": "Tierny",
+      "fullName": "Tierny Centre",
+      "type": "Research",
+      "coordinates": {
+        "lat": 52.67451651044776,
+        "lng": -8.577147183228096
+      },
+      "description": "Home to the Nexus Innovation Centre and various research labs"
+    },
+    {
+      "id": "MB",
+      "name": "Main",
+      "fullName": "Main Building",
+      "type": "Academic",
+      "coordinates": {
+        "lat": 52.674005309183926,
+        "lng": -8.571841511757299
+      },
+      "description": "At the heart of the campus, housing administration, several academic departments and our very own Brown Thomas Just outside the main entrance"
+    },
+    {
+      "id": "S",
+      "name": "Schumann",
+      "fullName": "Robert Schumann Building",
+      "type": "Academic",
+      "coordinates": {
+        "lat": 52.67326096074453,
+        "lng": -8.577984032555504
+      },
+      "description": "One of the many academic buildings on campus"
+    },
+    {
+      "id": "CC",
+      "name": "Cube Cafe",
+      "fullName": "The Cube Cafe / Costa Coffee",
+      "type": "Cafe",
+      "coordinates": {
+        "lat": 52.6729356829177,
+        "lng": -8.57766216747216
+      },
+      "description": "The Caf\u00e9 at the Kemmy Business School, which is a popular spot for students and staff alike."
+    },
+    {
+      "id": "KB",
+      "name": "Kemmy Business School",
+      "fullName": "Kemmy Business School",
+      "type": "Academic",
+      "coordinates": {
+        "lat": 52.67259549077003,
+        "lng": -8.576767559681779
+      },
+      "description": "UL's leading business education facility"
+    },
+    {
+      "id": "ER",
+      "name": "Engineering Research",
+      "fullName": "Engineering Research Building and Millsteam Courtyard",
+      "type": "Academic",
+      "coordinates": {
+        "lat": 52.67504464508122,
+        "lng": -8.572743491121834
+      },
+      "description": "State-of-the-art engineering research facilities"
+    },
+    {
+      "id": "F",
+      "name": "Foundation",
+      "fullName": "University Concert Hall (UCH)",
+      "type": "Academic",
+      "coordinates": {
+        "lat": 52.674260753404866,
+        "lng": -8.573226288727376
+      },
+      "description": "Central academic building with lecture halls"
+    },
+    {
+      "id": "LIB",
+      "name": "Library",
+      "fullName": "Glucksman Library",
+      "type": "Library",
+      "coordinates": {
+        "lat": 52.67330842247622,
+        "lng": -8.573307724422852
+      },
+      "description": "Main campus library with study spaces, book collections, research/it support and many more services"
+    },
+    {
+      "id": "Stables",
+      "name": "Stables",
+      "fullName": "Stables Complex",
+      "type": "Student Services",
+      "coordinates": {
+        "lat": 52.673062838212054,
+        "lng": -8.570872278676017
+      },
+      "description": "Student center with cafes and services"
+    },
+    {
+      "id": "IB",
+      "name": "Irish World Academy Building",
+      "fullName": "Irish World Academy of Music and Dance",
+      "type": "Academic",
+      "coordinates": {
+        "lat": 52.67811736738278,
+        "lng": -8.569456072316742
+      },
+      "description": "The Academy honours the energies of performance and academic reflection across a wide range of genres and disciplines."
+    }
+  ],
+  "rooms": [
+    {
+      "id": "CS3004-a",
+      "name": "CS3004-a",
+      "building": "CS",
+      "buildingFullName": "Computer Science and Information Systems Building",
+      "type": "Labratory",
+      "capacity": 30,
+      "floor": "3rd Floor",
+      "amenities": [
+        "Projector",
+        "Whiteboard",
+        "Power outlets",
+        "Air conditioning"
+      ],
+      "openingHours": "8:00 AM - 10:00 PM",
+      "software": [
+        "Visual Studio",
+        "IntelliJ IDEA",
+        "Python",
+        "MATLAB"
+      ],
+      "coordinates": {
+        "lat": 52.6738,
+        "lng": -8.5739
+      }
+    },
+    {
+      "id": "LG011",
+      "name": "LG011",
+      "building": "LG",
+      "buildingFullName": "Lonsdale Building",
+      "type": "Lecture Hall",
+      "capacity": 120,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Projector",
+        "Whiteboard",
+        "Power outlets",
+        "Air conditioning"
+      ],
+      "openingHours": "8:00 AM - 10:00 PM",
+      "software": [
+        "Visual Studio",
+        "IntelliJ IDEA",
+        "Python",
+        "MATLAB"
+      ],
+      "coordinates": {
+        "lat": 52.6738,
+        "lng": -8.5739
+      }
+    },
+    {
+      "id": "GEMS0016",
+      "name": "GEMS0016",
+      "building": "GEMS",
+      "buildingFullName": "School of Medicine",
+      "type": "Lecture Hall",
+      "capacity": 120,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Projector",
+        "Whiteboard",
+        "Power outlets",
+        "Air conditioning"
+      ],
+      "openingHours": "8:00 AM - 10:00 PM",
+      "software": [
+        "Visual Studio",
+        "IntelliJ IDEA",
+        "Python",
+        "MATLAB"
+      ],
+      "coordinates": {
+        "lat": 52.6738,
+        "lng": -8.5739
+      }
+    },
+    {
+      "id": "GEMS1023",
+      "name": "GEMS1023",
+      "building": "GEMS",
+      "buildingFullName": "School of Medicine",
+      "type": "Labratory",
+      "capacity": 40,
+      "floor": "First Floor",
+      "amenities": [
+        "Projector",
+        "Whiteboard",
+        "Power outlets",
+        "Air conditioning"
+      ],
+      "openingHours": "8:00 AM - 10:00 PM",
+      "software": [
+        "Visual Studio",
+        "IntelliJ IDEA",
+        "Python",
+        "MATLAB"
+      ],
+      "coordinates": {
+        "lat": 52.6738,
+        "lng": -8.5739
+      }
+    },
+    {
+      "id": "CS3004-b",
+      "name": "CS3004-b",
+      "building": "CS",
+      "buildingFullName": "Computer Science and Information Systems Building",
+      "type": "Labratory",
+      "capacity": 30,
+      "floor": "3rd Floor",
+      "amenities": [
+        "Projector",
+        "Whiteboard",
+        "Power outlets",
+        "Air conditioning"
+      ],
+      "openingHours": "8:00 AM - 10:00 PM",
+      "software": [
+        "Visual Studio",
+        "IntelliJ IDEA",
+        "Python",
+        "MATLAB"
+      ],
+      "coordinates": {
+        "lat": 52.6738,
+        "lng": -8.5739
+      }
+    },
+    {
+      "id": "CS3005-a",
+      "name": "CS3005-a",
+      "building": "CS",
+      "buildingFullName": "Computer Science and Information Systems Building",
+      "type": "Labratory",
+      "capacity": 30,
+      "floor": "3rd Floor",
+      "amenities": [
+        "Projector",
+        "Whiteboard",
+        "Power outlets",
+        "Air conditioning"
+      ],
+      "openingHours": "8:00 AM - 10:00 PM",
+      "software": [
+        "Visual Studio",
+        "IntelliJ IDEA",
+        "Python",
+        "MATLAB"
+      ],
+      "coordinates": {
+        "lat": 52.6738,
+        "lng": -8.5739
+      }
+    },
+    {
+      "id": "CS3005-b",
+      "name": "CS3005-b",
+      "building": "CS",
+      "buildingFullName": "Computer Science and Information Systems Building",
+      "type": "Labratory",
+      "capacity": 30,
+      "floor": "3rd Floor",
+      "amenities": [
+        "Projector",
+        "Whiteboard",
+        "Power outlets",
+        "Air conditioning"
+      ],
+      "openingHours": "8:00 AM - 10:00 PM",
+      "software": [
+        "Visual Studio",
+        "IntelliJ IDEA",
+        "Python",
+        "MATLAB"
+      ],
+      "coordinates": {
+        "lat": 52.6738,
+        "lng": -8.5739
+      }
+    },
+    {
+      "id": "CS2011",
+      "name": "CS2011",
+      "building": "CS",
+      "buildingFullName": "Computer Science and Information Systems Building",
+      "type": "Labratory",
+      "capacity": 40,
+      "floor": "2nd Floor",
+      "amenities": [
+        "40 Workstations",
+        "Printer",
+        "Scanner",
+        "Water refill station"
+      ],
+      "openingHours": "8:00 AM - 10:00 PM",
+      "software": [
+        "Microsoft Office",
+        "Visual Studio",
+        "Eclipse",
+        "Git"
+      ],
+      "coordinates": {
+        "lat": 52.6738,
+        "lng": -8.5739
+      }
+    },
+    {
+      "id": "CS1044",
+      "name": "CS1044",
+      "building": "CS",
+      "buildingFullName": "Computer Science and Information Systems Building",
+      "type": "Labratory",
+      "capacity": 40,
+      "floor": "1st Floor",
+      "amenities": [
+        "40 Workstations",
+        "Printer",
+        "Scanner",
+        "Water refill station"
+      ],
+      "openingHours": "8:00 AM - 10:00 PM",
+      "software": [
+        "Microsoft Office",
+        "Visual Studio",
+        "Eclipse",
+        "Git"
+      ],
+      "coordinates": {
+        "lat": 52.6738,
+        "lng": -8.5739
+      }
+    },
+    {
+      "id": "CS1045",
+      "name": "CS1045",
+      "building": "CS",
+      "buildingFullName": "Computer Science and Information Systems Building",
+      "type": "Labratory",
+      "capacity": 40,
+      "floor": "1st Floor",
+      "amenities": [
+        "40 Workstations",
+        "Printer",
+        "Scanner",
+        "Water refill station"
+      ],
+      "openingHours": "8:00 AM - 10:00 PM",
+      "software": [
+        "Microsoft Office",
+        "Visual Studio",
+        "Eclipse",
+        "Git"
+      ],
+      "coordinates": {
+        "lat": 52.6738,
+        "lng": -8.5739
+      }
+    },
+    {
+      "id": "CS2044",
+      "name": "CS2044",
+      "building": "CS",
+      "buildingFullName": "Computer Science and Information Systems Building",
+      "type": "Labratory",
+      "capacity": 40,
+      "floor": "2nd Floor",
+      "amenities": [
+        "40 Workstations",
+        "Printer",
+        "Scanner",
+        "Water refill station"
+      ],
+      "openingHours": "8:00 AM - 10:00 PM",
+      "software": [
+        "Microsoft Office",
+        "Visual Studio",
+        "Eclipse",
+        "Git"
+      ],
+      "coordinates": {
+        "lat": 52.6738,
+        "lng": -8.5739
+      }
+    },
+    {
+      "id": "CS2046",
+      "name": "CS2046",
+      "building": "CS",
+      "buildingFullName": "Computer Science and Information Systems Building",
+      "type": "Labratory",
+      "capacity": 40,
+      "floor": "2nd Floor",
+      "amenities": [
+        "40 Workstations",
+        "Printer",
+        "Scanner",
+        "Water refill station"
+      ],
+      "openingHours": "8:00 AM - 10:00 PM",
+      "software": [
+        "Microsoft Office",
+        "Visual Studio",
+        "Eclipse",
+        "Git"
+      ],
+      "coordinates": {
+        "lat": 52.6738,
+        "lng": -8.5739
+      }
+    },
+    {
+      "id": "KB118",
+      "name": "KB118",
+      "building": "KB",
+      "buildingFullName": "Kemmy Business School",
+      "type": "Lecture Hall",
+      "capacity": 200,
+      "floor": "1st Floor",
+      "amenities": [
+        "Audio system",
+        "Projector",
+        "Whiteboard",
+        "Accessible seating"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.6745,
+        "lng": -8.5745
+      }
+    },
+    {
+      "id": "ER2-011",
+      "name": "ER2-011",
+      "building": "ER",
+      "buildingFullName": "Engineering Research Building",
+      "type": "Research Lab",
+      "capacity": 25,
+      "floor": "2nd Floor",
+      "amenities": [
+        "Lab equipment",
+        "Safety shower",
+        "Fume hoods",
+        "Emergency exits"
+      ],
+      "openingHours": "7:00 AM - 11:00 PM",
+      "software": [
+        "AutoCAD",
+        "SolidWorks",
+        "ANSYS"
+      ],
+      "coordinates": {
+        "lat": 52.6735,
+        "lng": -8.5735
+      }
+    },
+    {
+      "id": "A1-050",
+      "name": "A1-050",
+      "building": "MB",
+      "buildingFullName": "Main Building",
+      "type": "Lecture Hall",
+      "capacity": 150,
+      "floor": "First Floor",
+      "amenities": [
+        "Projector",
+        "Audio system",
+        "Wheelchair access",
+        "Recording equipment"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.6742,
+        "lng": -8.5742
+      }
+    },
+    {
+      "id": "LC-G01",
+      "name": "LC-G01",
+      "building": "LC",
+      "buildingFullName": "Languages Building",
+      "type": "Study Room",
+      "capacity": 8,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Whiteboard",
+        "Smart TV",
+        "Bookable",
+        "Quiet space"
+      ],
+      "openingHours": "24/7 during term",
+      "coordinates": {
+        "lat": 52.674,
+        "lng": -8.574
+      }
+    },
+    {
+      "id": "CS1015",
+      "name": "CS1015",
+      "building": "CSIS",
+      "buildingFullName": "Computer Science and Information Systems Building",
+      "type": "Tutorial Room",
+      "capacity": 30,
+      "floor": "1st Floor",
+      "amenities": [
+        "Interactive whiteboard",
+        "Tables",
+        "Chairs",
+        "Natural lighting"
+      ],
+      "openingHours": "8:00 AM - 10:00 PM",
+      "coordinates": {
+        "lat": 52.6738,
+        "lng": -8.5739
+      }
+    },
+    {
+      "id": "KB201",
+      "name": "KB201",
+      "building": "KB",
+      "buildingFullName": "Kemmy Business School",
+      "type": "Seminar Room",
+      "capacity": 50,
+      "floor": "2nd Floor",
+      "amenities": [
+        "Projector",
+        "Sound system",
+        "Climate control",
+        "Ergonomic seating"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.6745,
+        "lng": -8.5745
+      }
+    },
+    {
+      "id": "ER1-023",
+      "name": "ER1-023",
+      "building": "ER",
+      "buildingFullName": "Engineering Research Building",
+      "type": "Computer Lab",
+      "capacity": 35,
+      "floor": "1st Floor",
+      "amenities": [
+        "35 Workstations",
+        "3D Printer",
+        "Plotter",
+        "Water refill station"
+      ],
+      "openingHours": "8:00 AM - 10:00 PM",
+      "software": [
+        "MATLAB",
+        "Python",
+        "AutoCAD",
+        "SolidWorks"
+      ],
+      "coordinates": {
+        "lat": 52.6735,
+        "lng": -8.5735
+      }
+    },
+    {
+      "id": "A2-110",
+      "name": "A2-110",
+      "building": "MB",
+      "buildingFullName": "Main Building",
+      "type": "Lecture Hall",
+      "capacity": 100,
+      "floor": "2nd Floor",
+      "amenities": [
+        "Projector",
+        "Whiteboard",
+        "Audio system",
+        "Tiered seating"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.6742,
+        "lng": -8.5742
+      }
+    },
+    {
+      "id": "A1050",
+      "name": "A1050",
+      "building": "MB",
+      "buildingFullName": "Main Building",
+      "type": "Lecture Hall",
+      "capacity": 50,
+      "floor": "1st Floor",
+      "amenities": [
+        "Projector",
+        "Whiteboard"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.674005309183926,
+        "lng": -8.571841511757299
+      }
+    },
+    {
+      "id": "A1051",
+      "name": "A1051",
+      "building": "MB",
+      "buildingFullName": "Main Building",
+      "type": "Lecture Hall",
+      "capacity": 50,
+      "floor": "1st Floor",
+      "amenities": [
+        "Projector",
+        "Whiteboard"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.674005309183926,
+        "lng": -8.571841511757299
+      }
+    },
+    {
+      "id": "A1052",
+      "name": "A1052",
+      "building": "MB",
+      "buildingFullName": "Main Building",
+      "type": "Lecture Hall",
+      "capacity": 50,
+      "floor": "1st Floor",
+      "amenities": [
+        "Projector",
+        "Whiteboard"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.674005309183926,
+        "lng": -8.571841511757299
+      }
+    },
+    {
+      "id": "A1053",
+      "name": "A1053",
+      "building": "MB",
+      "buildingFullName": "Main Building",
+      "type": "Lecture Hall",
+      "capacity": 50,
+      "floor": "1st Floor",
+      "amenities": [
+        "Projector",
+        "Whiteboard"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.674005309183926,
+        "lng": -8.571841511757299
+      }
+    },
+    {
+      "id": "A1054",
+      "name": "A1054",
+      "building": "MB",
+      "buildingFullName": "Main Building",
+      "type": "Lecture Hall",
+      "capacity": 50,
+      "floor": "1st Floor",
+      "amenities": [
+        "Projector",
+        "Whiteboard"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.674005309183926,
+        "lng": -8.571841511757299
+      }
+    },
+    {
+      "id": "A1055",
+      "name": "A1055",
+      "building": "MB",
+      "buildingFullName": "Main Building",
+      "type": "Lecture Hall",
+      "capacity": 50,
+      "floor": "1st Floor",
+      "amenities": [
+        "Projector",
+        "Whiteboard"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.674005309183926,
+        "lng": -8.571841511757299
+      }
+    },
+    {
+      "id": "B1005",
+      "name": "B1005",
+      "building": "MB",
+      "buildingFullName": "Main Building",
+      "type": "Tutorial Room",
+      "capacity": 30,
+      "floor": "1st Floor",
+      "amenities": [
+        "Whiteboard",
+        "Projector"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.674005309183926,
+        "lng": -8.571841511757299
+      }
+    },
+    {
+      "id": "B1005A",
+      "name": "B1005A",
+      "building": "MB",
+      "buildingFullName": "Main Building",
+      "type": "Tutorial Room",
+      "capacity": 30,
+      "floor": "1st Floor",
+      "amenities": [
+        "Whiteboard",
+        "Projector"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.674005309183926,
+        "lng": -8.571841511757299
+      }
+    },
+    {
+      "id": "B1023",
+      "name": "B1023",
+      "building": "MB",
+      "buildingFullName": "Main Building",
+      "type": "Tutorial Room",
+      "capacity": 30,
+      "floor": "1st Floor",
+      "amenities": [
+        "Whiteboard",
+        "Projector"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.674005309183926,
+        "lng": -8.571841511757299
+      }
+    },
+    {
+      "id": "BM015",
+      "name": "BM015",
+      "building": "MB",
+      "buildingFullName": "Main Building",
+      "type": "Meeting Room",
+      "capacity": 20,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Whiteboard",
+        "Tables"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.674005309183926,
+        "lng": -8.571841511757299
+      }
+    },
+    {
+      "id": "C0078",
+      "name": "C0078",
+      "building": "MB",
+      "buildingFullName": "Main Building",
+      "type": "Lecture Hall",
+      "capacity": 60,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Projector",
+        "Whiteboard"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.674005309183926,
+        "lng": -8.571841511757299
+      }
+    },
+    {
+      "id": "C0079",
+      "name": "C0079",
+      "building": "MB",
+      "buildingFullName": "Main Building",
+      "type": "Lecture Hall",
+      "capacity": 60,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Projector",
+        "Whiteboard"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.674005309183926,
+        "lng": -8.571841511757299
+      }
+    },
+    {
+      "id": "C1058",
+      "name": "C1058",
+      "building": "MB",
+      "buildingFullName": "Main Building",
+      "type": "Lecture Hall",
+      "capacity": 60,
+      "floor": "1st Floor",
+      "amenities": [
+        "Projector",
+        "Whiteboard"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.674005309183926,
+        "lng": -8.571841511757299
+      }
+    },
+    {
+      "id": "C1059",
+      "name": "C1059",
+      "building": "MB",
+      "buildingFullName": "Main Building",
+      "type": "Lecture Hall",
+      "capacity": 60,
+      "floor": "1st Floor",
+      "amenities": [
+        "Projector",
+        "Whiteboard"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.674005309183926,
+        "lng": -8.571841511757299
+      }
+    },
+    {
+      "id": "C1060",
+      "name": "C1060",
+      "building": "MB",
+      "buildingFullName": "Main Building",
+      "type": "Lecture Hall",
+      "capacity": 60,
+      "floor": "1st Floor",
+      "amenities": [
+        "Projector",
+        "Whiteboard"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.674005309183926,
+        "lng": -8.571841511757299
+      }
+    },
+    {
+      "id": "C1061",
+      "name": "C1061",
+      "building": "MB",
+      "buildingFullName": "Main Building",
+      "type": "Lecture Hall",
+      "capacity": 60,
+      "floor": "1st Floor",
+      "amenities": [
+        "Projector",
+        "Whiteboard"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.674005309183926,
+        "lng": -8.571841511757299
+      }
+    },
+    {
+      "id": "C1062",
+      "name": "C1062",
+      "building": "MB",
+      "buildingFullName": "Main Building",
+      "type": "Lecture Hall",
+      "capacity": 60,
+      "floor": "1st Floor",
+      "amenities": [
+        "Projector",
+        "Whiteboard"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.674005309183926,
+        "lng": -8.571841511757299
+      }
+    },
+    {
+      "id": "C1063",
+      "name": "C1063",
+      "building": "MB",
+      "buildingFullName": "Main Building",
+      "type": "Lecture Hall",
+      "capacity": 60,
+      "floor": "1st Floor",
+      "amenities": [
+        "Projector",
+        "Whiteboard"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.674005309183926,
+        "lng": -8.571841511757299
+      }
+    },
+    {
+      "id": "CG053",
+      "name": "CG053",
+      "building": "MB",
+      "buildingFullName": "Main Building",
+      "type": "Seminar Room",
+      "capacity": 40,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Whiteboard",
+        "Projector"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.674005309183926,
+        "lng": -8.571841511757299
+      }
+    },
+    {
+      "id": "CG054",
+      "name": "CG054",
+      "building": "MB",
+      "buildingFullName": "Main Building",
+      "type": "Seminar Room",
+      "capacity": 40,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Whiteboard",
+        "Projector"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.674005309183926,
+        "lng": -8.571841511757299
+      }
+    },
+    {
+      "id": "CG055",
+      "name": "CG055",
+      "building": "MB",
+      "buildingFullName": "Main Building",
+      "type": "Seminar Room",
+      "capacity": 40,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Whiteboard",
+        "Projector"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.674005309183926,
+        "lng": -8.571841511757299
+      }
+    },
+    {
+      "id": "CG057",
+      "name": "CG057",
+      "building": "MB",
+      "buildingFullName": "Main Building",
+      "type": "Seminar Room",
+      "capacity": 40,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Whiteboard",
+        "Projector"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.674005309183926,
+        "lng": -8.571841511757299
+      }
+    },
+    {
+      "id": "CG058",
+      "name": "CG058",
+      "building": "MB",
+      "buildingFullName": "Main Building",
+      "type": "Seminar Room",
+      "capacity": 40,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Whiteboard",
+        "Projector"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.674005309183926,
+        "lng": -8.571841511757299
+      }
+    },
+    {
+      "id": "CG059",
+      "name": "CG059",
+      "building": "MB",
+      "buildingFullName": "Main Building",
+      "type": "Seminar Room",
+      "capacity": 40,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Whiteboard",
+        "Projector"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.674005309183926,
+        "lng": -8.571841511757299
+      }
+    },
+    {
+      "id": "D1050",
+      "name": "D1050",
+      "building": "MB",
+      "buildingFullName": "Main Building",
+      "type": "Lecture Hall",
+      "capacity": 50,
+      "floor": "1st Floor",
+      "amenities": [
+        "Projector",
+        "Whiteboard"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.674005309183926,
+        "lng": -8.571841511757299
+      }
+    },
+    {
+      "id": "DG016",
+      "name": "DG016",
+      "building": "MB",
+      "buildingFullName": "Main Building",
+      "type": "Tutorial Room",
+      "capacity": 30,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Whiteboard",
+        "Projector"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.674005309183926,
+        "lng": -8.571841511757299
+      }
+    },
+    {
+      "id": "EGO10",
+      "name": "EGO10",
+      "building": "MB",
+      "buildingFullName": "Main Building",
+      "type": "Lecture Hall",
+      "capacity": 50,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Projector",
+        "Whiteboard"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.674005309183926,
+        "lng": -8.571841511757299
+      }
+    },
+    {
+      "id": "EM009",
+      "name": "EM009",
+      "building": "MB",
+      "buildingFullName": "Main Building",
+      "type": "Tutorial Room",
+      "capacity": 30,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Whiteboard",
+        "Projector"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.674005309183926,
+        "lng": -8.571841511757299
+      }
+    },
+    {
+      "id": "EM010",
+      "name": "EM010",
+      "building": "MB",
+      "buildingFullName": "Main Building",
+      "type": "Tutorial Room",
+      "capacity": 30,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Whiteboard",
+        "Projector"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.674005309183926,
+        "lng": -8.571841511757299
+      }
+    },
+    {
+      "id": "KB119",
+      "name": "KB119",
+      "building": "KB",
+      "buildingFullName": "Kemmy Business School",
+      "type": "Seminar Room",
+      "capacity": 45,
+      "floor": "1st Floor",
+      "amenities": [
+        "Projector",
+        "Whiteboard",
+        "Ergonomic seating"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.67259549077003,
+        "lng": -8.576767559681779
+      }
+    },
+    {
+      "id": "KBG10",
+      "name": "KBG10",
+      "building": "KB",
+      "buildingFullName": "Kemmy Business School",
+      "type": "Seminar Room",
+      "capacity": 30,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Projector",
+        "Whiteboard",
+        "Small group seating"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.67259549077003,
+        "lng": -8.576767559681779
+      }
+    },
+    {
+      "id": "KBG11",
+      "name": "KBG11",
+      "building": "KB",
+      "buildingFullName": "Kemmy Business School",
+      "type": "Seminar Room",
+      "capacity": 30,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Projector",
+        "Whiteboard",
+        "Small group seating"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.67259549077003,
+        "lng": -8.576767559681779
+      }
+    },
+    {
+      "id": "KBG12",
+      "name": "KBG12",
+      "building": "KB",
+      "buildingFullName": "Kemmy Business School",
+      "type": "Seminar Room",
+      "capacity": 30,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Projector",
+        "Whiteboard",
+        "Small group seating"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.67259549077003,
+        "lng": -8.576767559681779
+      }
+    },
+    {
+      "id": "KBG13",
+      "name": "KBG13",
+      "building": "KB",
+      "buildingFullName": "Kemmy Business School",
+      "type": "Seminar Room",
+      "capacity": 30,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Projector",
+        "Whiteboard",
+        "Small group seating"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.67259549077003,
+        "lng": -8.576767559681779
+      }
+    },
+    {
+      "id": "KBG14",
+      "name": "KBG14",
+      "building": "KB",
+      "buildingFullName": "Kemmy Business School",
+      "type": "Seminar Room",
+      "capacity": 30,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Projector",
+        "Whiteboard",
+        "Small group seating"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.67259549077003,
+        "lng": -8.576767559681779
+      }
+    },
+    {
+      "id": "KBG15",
+      "name": "KBG15",
+      "building": "KB",
+      "buildingFullName": "Kemmy Business School",
+      "type": "Seminar Room",
+      "capacity": 30,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Projector",
+        "Whiteboard",
+        "Small group seating"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.67259549077003,
+        "lng": -8.576767559681779
+      }
+    },
+    {
+      "id": "ER0008",
+      "name": "ER0008",
+      "building": "ER",
+      "buildingFullName": "Engineering Research Building and Millsteam Courtyard",
+      "type": "Laboratory",
+      "capacity": 20,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Workstations",
+        "Safety equipment",
+        "Whiteboard"
+      ],
+      "openingHours": "7:00 AM - 11:00 PM",
+      "coordinates": {
+        "lat": 52.67504464508122,
+        "lng": -8.572743491121834
+      }
+    },
+    {
+      "id": "ERB001",
+      "name": "ERB001",
+      "building": "ER",
+      "buildingFullName": "Engineering Research Building and Millsteam Courtyard",
+      "type": "Laboratory",
+      "capacity": 20,
+      "floor": "Basement",
+      "amenities": [
+        "Workstations",
+        "Safety equipment",
+        "Whiteboard"
+      ],
+      "openingHours": "7:00 AM - 11:00 PM",
+      "coordinates": {
+        "lat": 52.67504464508122,
+        "lng": -8.572743491121834
+      }
+    },
+    {
+      "id": "ERB006",
+      "name": "ERB006",
+      "building": "ER",
+      "buildingFullName": "Engineering Research Building and Millsteam Courtyard",
+      "type": "Laboratory",
+      "capacity": 20,
+      "floor": "Basement",
+      "amenities": [
+        "Workstations",
+        "Safety equipment",
+        "Whiteboard"
+      ],
+      "openingHours": "7:00 AM - 11:00 PM",
+      "coordinates": {
+        "lat": 52.67504464508122,
+        "lng": -8.572743491121834
+      }
+    },
+    {
+      "id": "ERB007",
+      "name": "ERB007",
+      "building": "ER",
+      "buildingFullName": "Engineering Research Building and Millsteam Courtyard",
+      "type": "Laboratory",
+      "capacity": 20,
+      "floor": "Basement",
+      "amenities": [
+        "Workstations",
+        "Safety equipment",
+        "Whiteboard"
+      ],
+      "openingHours": "7:00 AM - 11:00 PM",
+      "coordinates": {
+        "lat": 52.67504464508122,
+        "lng": -8.572743491121834
+      }
+    },
+    {
+      "id": "ERB008",
+      "name": "ERB008",
+      "building": "ER",
+      "buildingFullName": "Engineering Research Building and Millsteam Courtyard",
+      "type": "Laboratory",
+      "capacity": 20,
+      "floor": "Basement",
+      "amenities": [
+        "Workstations",
+        "Safety equipment",
+        "Whiteboard"
+      ],
+      "openingHours": "7:00 AM - 11:00 PM",
+      "coordinates": {
+        "lat": 52.67504464508122,
+        "lng": -8.572743491121834
+      }
+    },
+    {
+      "id": "IWG75",
+      "name": "IWG75",
+      "building": "IB",
+      "buildingFullName": "Irish World Academy",
+      "type": "Lecture Hall",
+      "capacity": 100,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Workstations",
+        "Safety equipment",
+        "Whiteboard"
+      ],
+      "openingHours": "7:00 AM - 11:00 PM",
+      "coordinates": {
+        "lat": 52.67504464508122,
+        "lng": -8.572743491121834
+      }
+    },
+    {
+      "id": "FB028",
+      "name": "FB028",
+      "building": "F",
+      "buildingFullName": "University Concert Hall (UCH)",
+      "type": "Lecture Hall",
+      "capacity": 120,
+      "floor": "Basement",
+      "amenities": [
+        "Projector",
+        "Sound system",
+        "Whiteboard"
+      ],
+      "openingHours": "8:00 AM - 10:00 PM",
+      "coordinates": {
+        "lat": 52.674260753404866,
+        "lng": -8.573226288727376
+      }
+    },
+    {
+      "id": "FG042",
+      "name": "FG042",
+      "building": "F",
+      "buildingFullName": "University Concert Hall (UCH)",
+      "type": "Lecture Hall",
+      "capacity": 80,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Projector",
+        "Audio system",
+        "Whiteboard"
+      ],
+      "openingHours": "8:00 AM - 10:00 PM",
+      "coordinates": {
+        "lat": 52.674260753404866,
+        "lng": -8.573226288727376
+      }
+    },
+    {
+      "id": "FG061",
+      "name": "FG061",
+      "building": "F",
+      "buildingFullName": "University Concert Hall (UCH)",
+      "type": "Seminar Room",
+      "capacity": 40,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Projector",
+        "Whiteboard",
+        "Flexible seating"
+      ],
+      "openingHours": "8:00 AM - 10:00 PM",
+      "coordinates": {
+        "lat": 52.674260753404866,
+        "lng": -8.573226288727376
+      }
+    },
+    {
+      "id": "LCB002",
+      "name": "LCB002",
+      "building": "LC",
+      "buildingFullName": "The Language Centre",
+      "type": "Study Room",
+      "capacity": 8,
+      "floor": "Basement",
+      "amenities": [
+        "Whiteboard",
+        "Quiet study",
+        "Booking available"
+      ],
+      "openingHours": "24/7 during term",
+      "coordinates": {
+        "lat": 52.67330842247622,
+        "lng": -8.573307724422852
+      }
+    },
+    {
+      "id": "LCB003",
+      "name": "LCB003",
+      "building": "LC",
+      "buildingFullName": "The Language Centre",
+      "type": "Study Room",
+      "capacity": 8,
+      "floor": "Basement",
+      "amenities": [
+        "Whiteboard",
+        "Quiet study",
+        "Booking available"
+      ],
+      "openingHours": "24/7 during term",
+      "coordinates": {
+        "lat": 52.67330842247622,
+        "lng": -8.573307724422852
+      }
+    },
+    {
+      "id": "LCB009",
+      "name": "LCB009",
+      "building": "LC",
+      "buildingFullName": "The Language Centre",
+      "type": "Study Room",
+      "capacity": 10,
+      "floor": "Basement",
+      "amenities": [
+        "Whiteboard",
+        "Quiet study",
+        "Booking available"
+      ],
+      "openingHours": "24/7 during term",
+      "coordinates": {
+        "lat": 52.67330842247622,
+        "lng": -8.573307724422852
+      }
+    },
+    {
+      "id": "LCB009A",
+      "name": "LCB009A",
+      "building": "LC",
+      "buildingFullName": "The Language Centre",
+      "type": "Study Room",
+      "capacity": 10,
+      "floor": "Basement",
+      "amenities": [
+        "Whiteboard",
+        "Quiet study",
+        "Booking available"
+      ],
+      "openingHours": "24/7 during term",
+      "coordinates": {
+        "lat": 52.67330842247622,
+        "lng": -8.573307724422852
+      }
+    },
+    {
+      "id": "LCB010",
+      "name": "LCB010",
+      "building": "LC",
+      "buildingFullName": "The Language Centre",
+      "type": "Study Room",
+      "capacity": 10,
+      "floor": "Basement",
+      "amenities": [
+        "Whiteboard",
+        "Quiet study",
+        "Booking available"
+      ],
+      "openingHours": "24/7 during term",
+      "coordinates": {
+        "lat": 52.67330842247622,
+        "lng": -8.573307724422852
+      }
+    },
+    {
+      "id": "LCB015",
+      "name": "LCB015",
+      "building": "LC",
+      "buildingFullName": "The Language Centre",
+      "type": "Study Room",
+      "capacity": 10,
+      "floor": "Basement",
+      "amenities": [
+        "Whiteboard",
+        "Quiet study",
+        "Booking available"
+      ],
+      "openingHours": "24/7 during term",
+      "coordinates": {
+        "lat": 52.67330842247622,
+        "lng": -8.573307724422852
+      }
+    },
+    {
+      "id": "LCO002",
+      "name": "LCO002",
+      "building": "LC",
+      "buildingFullName": "The Language Centre",
+      "type": "Study Room",
+      "capacity": 10,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Whiteboard",
+        "Quiet study",
+        "Booking available"
+      ],
+      "openingHours": "24/7 during term",
+      "coordinates": {
+        "lat": 52.67330842247622,
+        "lng": -8.573307724422852
+      }
+    },
+    {
+      "id": "LCO003",
+      "name": "LCO003",
+      "building": "LC",
+      "buildingFullName": "The Language Centre",
+      "type": "Study Room",
+      "capacity": 10,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Whiteboard",
+        "Quiet study",
+        "Booking available"
+      ],
+      "openingHours": "24/7 during term",
+      "coordinates": {
+        "lat": 52.67330842247622,
+        "lng": -8.573307724422852
+      }
+    },
+    {
+      "id": "LCO017",
+      "name": "LCO017",
+      "building": "LC",
+      "buildingFullName": "The Language Centre",
+      "type": "Study Room",
+      "capacity": 10,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Whiteboard",
+        "Quiet study",
+        "Booking available"
+      ],
+      "openingHours": "24/7 during term",
+      "coordinates": {
+        "lat": 52.67330842247622,
+        "lng": -8.573307724422852
+      }
+    },
+    {
+      "id": "SG15",
+      "name": "SG15",
+      "building": "S",
+      "buildingFullName": "Robert Schumann Building",
+      "type": "Tutorial Room",
+      "capacity": 25,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Whiteboard",
+        "Projector",
+        "Flexible seating"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.673062838212054,
+        "lng": -8.570872278676017
+      }
+    },
+    {
+      "id": "SG16",
+      "name": "SG16",
+      "building": "S",
+      "buildingFullName": "Robert Schumann Building",
+      "type": "Tutorial Room",
+      "capacity": 25,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Whiteboard",
+        "Projector",
+        "Flexible seating"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.673062838212054,
+        "lng": -8.570872278676017
+      }
+    },
+    {
+      "id": "SG17",
+      "name": "SG17",
+      "building": "S",
+      "buildingFullName": "Robert Schumann Building",
+      "type": "Tutorial Room",
+      "capacity": 25,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Whiteboard",
+        "Projector",
+        "Flexible seating"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.673062838212054,
+        "lng": -8.570872278676017
+      }
+    },
+    {
+      "id": "SG18",
+      "name": "SG18",
+      "building": "S",
+      "buildingFullName": "Robert Schumann Building",
+      "type": "Tutorial Room",
+      "capacity": 25,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Whiteboard",
+        "Projector",
+        "Flexible seating"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.673062838212054,
+        "lng": -8.570872278676017
+      }
+    },
+    {
+      "id": "SG19",
+      "name": "SG19",
+      "building": "S",
+      "buildingFullName": "Robert Schumann Building",
+      "type": "Tutorial Room",
+      "capacity": 25,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Whiteboard",
+        "Projector",
+        "Flexible seating"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.673062838212054,
+        "lng": -8.570872278676017
+      }
+    },
+    {
+      "id": "SG20",
+      "name": "SG20",
+      "building": "S",
+      "buildingFullName": "Robert Schumann Building",
+      "type": "Tutorial Room",
+      "capacity": 25,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Whiteboard",
+        "Projector",
+        "Flexible seating"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.673062838212054,
+        "lng": -8.570872278676017
+      }
+    },
+    {
+      "id": "SG21",
+      "name": "SG21",
+      "building": "S",
+      "buildingFullName": "Robert Schumann Building",
+      "type": "Tutorial Room",
+      "capacity": 25,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Whiteboard",
+        "Projector",
+        "Flexible seating"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.673062838212054,
+        "lng": -8.570872278676017
+      }
+    },
+    {
+      "id": "SG21A",
+      "name": "SG21A",
+      "building": "S",
+      "buildingFullName": "Robert Schumann Building",
+      "type": "Tutorial Room",
+      "capacity": 25,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Whiteboard",
+        "Projector",
+        "Flexible seating"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.673062838212054,
+        "lng": -8.570872278676017
+      }
+    },
+    {
+      "id": "CSG001",
+      "name": "CSG001",
+      "building": "CS",
+      "buildingFullName": "Computer Science and Information Systems Building",
+      "type": "Lecture Hall",
+      "capacity": 80,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Projector",
+        "Whiteboard",
+        "Computer access"
+      ],
+      "openingHours": "8:00 AM - 10:00 PM",
+      "coordinates": {
+        "lat": 52.673891718601624,
+        "lng": -8.575582023281457
+      }
+    },
+    {
+      "id": "CSG025",
+      "name": "CSG025",
+      "building": "CS",
+      "buildingFullName": "Computer Science and Information Systems Building",
+      "type": "Lecture Hall",
+      "capacity": 70,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Projector",
+        "Whiteboard",
+        "Computer access"
+      ],
+      "openingHours": "8:00 AM - 10:00 PM",
+      "coordinates": {
+        "lat": 52.673891718601624,
+        "lng": -8.575582023281457
+      }
+    },
+    {
+      "id": "HSG008A",
+      "name": "HSG008A",
+      "building": "HSG",
+      "buildingFullName": "Health Sciences Building",
+      "type": "Lecture Hall",
+      "capacity": 50,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Projector",
+        "Whiteboard",
+        "Accessible seating"
+      ],
+      "openingHours": "8:00 AM - 10:00 PM",
+      "coordinates": {
+        "lat": 52.67777987384361,
+        "lng": -8.56911891096926
+      }
+    },
+    {
+      "id": "HSG021",
+      "name": "HSG021",
+      "building": "HSG",
+      "buildingFullName": "Health Sciences Building",
+      "type": "Tutorial Room",
+      "capacity": 35,
+      "floor": "2nd Floor",
+      "amenities": [
+        "Whiteboard",
+        "Natural light",
+        "Group seating"
+      ],
+      "openingHours": "8:00 AM - 10:00 PM",
+      "coordinates": {
+        "lat": 52.67777987384361,
+        "lng": -8.56911891096926
+      }
+    },
+    {
+      "id": "SR2027",
+      "name": "SR2027",
+      "building": "SR",
+      "buildingFullName": "Science and Education Building",
+      "type": "Tutorial Room",
+      "capacity": 35,
+      "floor": "2nd Floor",
+      "amenities": [
+        "Whiteboard",
+        "Natural light",
+        "Group seating"
+      ],
+      "openingHours": "8:00 AM - 10:00 PM",
+      "coordinates": {
+        "lat": 52.67777987384361,
+        "lng": -8.56911891096926
+      }
+    },
+    {
+      "id": "SR2028",
+      "name": "SR2028",
+      "building": "SR",
+      "buildingFullName": "Science and Education Building",
+      "type": "Tutorial Room",
+      "capacity": 35,
+      "floor": "2nd Floor",
+      "amenities": [
+        "Whiteboard",
+        "Natural light",
+        "Group seating"
+      ],
+      "openingHours": "8:00 AM - 10:00 PM",
+      "coordinates": {
+        "lat": 52.67777987384361,
+        "lng": -8.56911891096926
+      }
+    },
+    {
+      "id": "SR2029",
+      "name": "SR2029",
+      "building": "SR",
+      "buildingFullName": "Science and Education Building",
+      "type": "Tutorial Room",
+      "capacity": 35,
+      "floor": "2nd Floor",
+      "amenities": [
+        "Whiteboard",
+        "Natural light",
+        "Group seating"
+      ],
+      "openingHours": "8:00 AM - 10:00 PM",
+      "coordinates": {
+        "lat": 52.67777987384361,
+        "lng": -8.56911891096926
+      }
+    },
+    {
+      "id": "SR2030",
+      "name": "SR2030",
+      "building": "SR",
+      "buildingFullName": "Science and Education Building",
+      "type": "Tutorial Room",
+      "capacity": 35,
+      "floor": "2nd Floor",
+      "amenities": [
+        "Whiteboard",
+        "Natural light",
+        "Group seating"
+      ],
+      "openingHours": "8:00 AM - 10:00 PM",
+      "coordinates": {
+        "lat": 52.67777987384361,
+        "lng": -8.56911891096926
+      }
+    },
+    {
+      "id": "SR3006",
+      "name": "SR3006",
+      "building": "SR",
+      "buildingFullName": "Science and Education Building",
+      "type": "Tutorial Room",
+      "capacity": 35,
+      "floor": "3rd Floor",
+      "amenities": [
+        "Whiteboard",
+        "Natural light",
+        "Group seating"
+      ],
+      "openingHours": "8:00 AM - 10:00 PM",
+      "coordinates": {
+        "lat": 52.67777987384361,
+        "lng": -8.56911891096926
+      }
+    },
+    {
+      "id": "SR3007",
+      "name": "SR3007",
+      "building": "SR",
+      "buildingFullName": "Science and Education Building",
+      "type": "Tutorial Room",
+      "capacity": 35,
+      "floor": "3rd Floor",
+      "amenities": [
+        "Whiteboard",
+        "Natural light",
+        "Group seating"
+      ],
+      "openingHours": "8:00 AM - 10:00 PM",
+      "coordinates": {
+        "lat": 52.67777987384361,
+        "lng": -8.56911891096926
+      }
+    },
+    {
+      "id": "SR3008",
+      "name": "SR3008",
+      "building": "SR",
+      "buildingFullName": "Science and Education Building",
+      "type": "Tutorial Room",
+      "capacity": 35,
+      "floor": "3rd Floor",
+      "amenities": [
+        "Whiteboard",
+        "Natural light",
+        "Group seating"
+      ],
+      "openingHours": "8:00 AM - 10:00 PM",
+      "coordinates": {
+        "lat": 52.67777987384361,
+        "lng": -8.56911891096926
+      }
+    },
+    {
+      "id": "HSG030",
+      "name": "HSG030",
+      "building": "HSG",
+      "buildingFullName": "Health Sciences Building",
+      "type": "Lecture Hall",
+      "capacity": 60,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Projector",
+        "Whiteboard",
+        "Lecture seating"
+      ],
+      "openingHours": "8:00 AM - 10:00 PM",
+      "coordinates": {
+        "lat": 52.67777987384361,
+        "lng": -8.56911891096926
+      }
+    },
+    {
+      "id": "P1003",
+      "name": "P1003",
+      "building": "P",
+      "buildingFullName": "Physical Education and Sports Sciences Building",
+      "type": "Meeting Room",
+      "capacity": 20,
+      "floor": "1st Floor",
+      "amenities": [
+        "Tables",
+        "Chairs",
+        "Whiteboard"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.673509684693165,
+        "lng": -8.573249775041356
+      }
+    },
+    {
+      "id": "P1004",
+      "name": "P1004",
+      "building": "P",
+      "buildingFullName": "Physical Education and Sports Sciences Building",
+      "type": "Meeting Room",
+      "capacity": 20,
+      "floor": "1st Floor",
+      "amenities": [
+        "Tables",
+        "Chairs",
+        "Whiteboard"
+      ],
+      "openingHours": "8:00 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.673509684693165,
+        "lng": -8.573249775041356
+      }
+    },
+    {
+      "id": "AD2010",
+      "name": "AD2010",
+      "building": "AD",
+      "buildingFullName": "Analog Devices Building (The Bernal Project)",
+      "type": "Lecture Hall",
+      "capacity": 25,
+      "floor": "2nd Floor",
+      "amenities": [
+        "Lab equipment",
+        "Workstations"
+      ],
+      "openingHours": "8:00 AM - 10:00 PM",
+      "coordinates": {
+        "lat": 52.673083155971,
+        "lng": -8.569151256073292
+      }
+    },
+    {
+      "id": "AD0034",
+      "name": "AD0034",
+      "building": "AD",
+      "buildingFullName": "Analog Devices Building (The Bernal Project)",
+      "type": "Laboratory",
+      "capacity": 25,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Lab equipment",
+        "Workstations"
+      ],
+      "openingHours": "8:00 AM - 10:00 PM",
+      "coordinates": {
+        "lat": 52.673083155971,
+        "lng": -8.569151256073292
+      }
+    },
+    {
+      "id": "AD0036",
+      "name": "AD0036",
+      "building": "AD",
+      "buildingFullName": "Analog Devices Building (The Bernal Project)",
+      "type": "Laboratory",
+      "capacity": 25,
+      "floor": "Ground Floor",
+      "amenities": [
+        "Lab equipment",
+        "Workstations"
+      ],
+      "openingHours": "8:00 AM - 10:00 PM",
+      "coordinates": {
+        "lat": 52.673083155971,
+        "lng": -8.569151256073292
+      }
+    }
+  ],
+  "services": [
+    {
+      "id": "stables-cafe",
+      "name": "Stables Restaurant",
+      "type": "Food",
+      "building": "Stables",
+      "openingHours": "8:00 AM - 6:00 PM",
+      "coordinates": {
+        "lat": 52.673062838212054,
+        "lng": -8.570872278676017
+      }
+    },
+    {
+      "id": "sports-arena",
+      "name": "UL Sports Arena",
+      "type": "Sports Facility",
+      "building": "PE",
+      "openingHours": "6:00 AM - 11:00 PM",
+      "coordinates": {
+        "lat": 52.67338974147296,
+        "lng": -8.565317423900703
+      }
+    },
+    {
+      "id": "cube-cafe",
+      "name": "The Cube Cafe",
+      "type": "Cafe",
+      "building": "KB",
+      "openingHours": "8:00 AM - 6:00 PM",
+      "coordinates": {
+        "lat": 52.6729356829177,
+        "lng": -8.57766216747216
+      }
+    },
+    {
+      "id": "EdR",
+      "name": "The Eden Restaurant",
+      "type": "Food",
+      "building": "Main Building",
+      "openingHours": "8:30 AM - 4:00 PM",
+      "coordinates": {
+        "lat": 52.67427972128897,
+        "lng": -8.571832207784047
+      }
+    },
+    {
+      "id": "TSC",
+      "name": "The Scholars Club",
+      "type": "Food",
+      "building": "Stables",
+      "openingHours": "8:30 AM - 11:30 PM",
+      "coordinates": {
+        "lat": 52.673052626626635,
+        "lng": -8.569764224646413
+      }
+    },
+    {
+      "id": "PR",
+      "name": "The Paddocks Restaurant",
+      "type": "Food",
+      "building": "Stables",
+      "openingHours": "8:00 AM - 5:00 PM",
+      "coordinates": {
+        "lat": 52.672860496880034,
+        "lng": -8.571221059859521
+      }
+    },
+    {
+      "id": "T",
+      "name": "The Terrace UL",
+      "type": "Food",
+      "building": "Terrace",
+      "openingHours": "8:00 AM - 5:00 PM",
+      "coordinates": {
+        "lat": 52.67327199694801,
+        "lng": -8.56434962123271
+      }
+    },
+    {
+      "id": "P",
+      "name": "The Plaza Cafe",
+      "type": "Cafe",
+      "building": "The Glucksman Library",
+      "openingHours": "8:00 AM - 6:00 PM",
+      "coordinates": {
+        "lat": 52.673509684693165,
+        "lng": -8.573249775041356
+      }
+    },
+    {
+      "id": "TP",
+      "name": "The Pavillion",
+      "type": "Food",
+      "building": "Pavillion",
+      "openingHours": "8:30 AM - 8:00 PM",
+      "coordinates": {
+        "lat": 52.67912821886363,
+        "lng": -8.569685252831798
+      }
+    },
+    {
+      "id": "RR",
+      "name": "The Red Raisins",
+      "fullName": "The Red Raisins",
+      "type": "Food",
+      "building": "Main Building",
+      "openingHours": "8:30 AM - 9:00 PM",
+      "coordinates": {
+        "lat": 52.673668211228076,
+        "lng": -8.570736525420616
+      }
+    },
+    {
+      "id": "NCP",
+      "name": "The North Campus Pitches",
+      "type": "Sports Facility",
+      "openingHours": "9:00 AM - 10:00 PM",
+      "coordinates": {
+        "lat": 52.68079831603615,
+        "lng": -8.569843996842499
+      }
+    },
+    {
+      "id": "SM",
+      "name": "Student Microwaves",
+      "type": "Microwave",
+      "openingHours": "9:00 AM - 10:00 PM",
+      "coordinates": {
+        "lat": 52.672816470488534,
+        "lng": -8.571844982854417
+      }
+    },
+    {
+      "id": "WS",
+      "name": "Water Stations",
+      "type": "Water",
+      "openingHours": "9:00 AM - 10:00 PM",
+      "coordinates": {
+        "lat": 52.67269161809155,
+        "lng": -8.576541817621113
+      }
+    }
+  ]
+}
